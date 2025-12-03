@@ -1,0 +1,11 @@
+M:\C#\project\MyBigPrject\Dalfacade\bin\Debug\net8.0\Dalfacade.deps.json
+M:\C#\project\MyBigPrject\Dalfacade\bin\Debug\net8.0\Dalfacade.dll
+M:\C#\project\MyBigPrject\Dalfacade\bin\Debug\net8.0\Dalfacade.pdb
+M:\C#\project\MyBigPrject\Dalfacade\obj\Debug\net8.0\Dalfacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\project\MyBigPrject\Dalfacade\obj\Debug\net8.0\Dalfacade.AssemblyInfoInputs.cache
+M:\C#\project\MyBigPrject\Dalfacade\obj\Debug\net8.0\Dalfacade.AssemblyInfo.cs
+M:\C#\project\MyBigPrject\Dalfacade\obj\Debug\net8.0\Dalfacade.csproj.CoreCompileInputs.cache
+M:\C#\project\MyBigPrject\Dalfacade\obj\Debug\net8.0\Dalfacade.dll
+M:\C#\project\MyBigPrject\Dalfacade\obj\Debug\net8.0\refint\Dalfacade.dll
+M:\C#\project\MyBigPrject\Dalfacade\obj\Debug\net8.0\Dalfacade.pdb
+M:\C#\project\MyBigPrject\Dalfacade\obj\Debug\net8.0\ref\Dalfacade.dll

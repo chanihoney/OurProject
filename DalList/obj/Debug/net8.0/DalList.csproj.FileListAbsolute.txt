@@ -1,0 +1,15 @@
+M:\C#\project\MyBigPrject\DalList\bin\Debug\net8.0\DalList.deps.json
+M:\C#\project\MyBigPrject\DalList\bin\Debug\net8.0\DalList.dll
+M:\C#\project\MyBigPrject\DalList\bin\Debug\net8.0\DalList.pdb
+M:\C#\project\MyBigPrject\DalList\bin\Debug\net8.0\Dalfacade.dll
+M:\C#\project\MyBigPrject\DalList\bin\Debug\net8.0\Dalfacade.pdb
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.AssemblyReference.cache
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfoInputs.cache
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.AssemblyInfo.cs
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.CoreCompileInputs.cache
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.csproj.Up2Date
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.dll
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\refint\DalList.dll
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\DalList.pdb
+M:\C#\project\MyBigPrject\DalList\obj\Debug\net8.0\ref\DalList.dll
